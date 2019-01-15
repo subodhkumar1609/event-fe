@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war
+=======
+web: 
+>>>>>>> branch 'master' of https://github.com/subodhkumar1609/event-fe.git
